@@ -28,7 +28,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources&psig=AOvVaw3f7LyuL9SDXQVO0wOhJxYt&ust=1596697031076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjzoo2-g-sCFQAAAAAdAAAAABAD">
+<img align="left" alt="GitHub" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
 
 <br />
 <br />
