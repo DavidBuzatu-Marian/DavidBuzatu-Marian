@@ -1,6 +1,6 @@
 ### 👋 Hello, I am [David][website]
 
-## I am a future student at the Univ. of Birmingham, passionate and devoted to AI and Software Development
+## I am a second year student at the Univ. of Birmingham (MSci Computer Science), passionate and devoted to AI and Software Development
 
 - 🔭 Currently working on **MateBac**, an educational platform for Romanian pupils!
 - 🤖 Learning AI, Docker/Kubernetes, Testing and more
