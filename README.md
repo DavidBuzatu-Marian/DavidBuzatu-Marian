@@ -3,9 +3,9 @@
 ## I am a second year student at the Univ. of Birmingham (MSci Computer Science), passionate and devoted to AI and Software Development
 
 - 🔭 Currently working on **MateBac**, an educational platform for Romanian pupils!
-- 🤖 Learning AI, Docker/Kubernetes, Testing and more
+- 🤖 Learning AI; consolidating Docker knowledge; exploring ReactNative.
 - 📕 Looking to meet passionate people, open for collaborations
-- 🚩 2020 Goals: Launch **MateBac**; Build AI projects; Contribute to Open Source
+- 🚩 2021 Goals: Launch **MateBac**; Build AI projects; Contribute to Open Source
 - 📖 Fun fact: Love to write fiction and I am thinking about publishing it soon
 
 ### Connect with me:
