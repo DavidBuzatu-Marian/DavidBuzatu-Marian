@@ -39,6 +39,6 @@
 <br />
 <br />
 
-[website]: https://davidbuzatu-marian.github.io/Portofolio-DavidB/#/
+[website]: https://www.linkedin.com/in/david-buzatu-160620198/
 [linkedin]: https://www.linkedin.com/in/david-buzatu-160620198/
 [instagram]: https://www.instagram.com/davidbuzatu/?hl=en
